@@ -1,4 +1,4 @@
-# assistant_vl.py
+# assistant.py
 from llama_cpp import Llama
 
 class Assistant:
@@ -48,3 +48,4 @@ if __name__ == '__main__':
     ))
 
     input("//////// PRESS ENTER ////////")
+
